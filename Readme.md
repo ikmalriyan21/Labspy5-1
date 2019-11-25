@@ -35,25 +35,25 @@ print("==================================================================")
 .Screenshot Input
 
 
-https://github.com/mastio1836/Labspy5/blob/master/Gambar/pict%201%20Ralat.png
+![input](https://github.com/mastio1836/Labspy5/blob/master/Gambar/pict%201%20Ralat.png)
 
 
 
 
-https://github.com/mastio1836/Labspy5/blob/master/Gambar/pict%202%20ralat.png
+![input](https://github.com/mastio1836/Labspy5/blob/master/Gambar/pict%202%20ralat.png)
 
 
 .Screenshot Ouput
 
 
-https://github.com/mastio1836/Labspy5/blob/master/Gambar/pict%203.png
+![output](https://github.com/mastio1836/Labspy5/blob/master/Gambar/pict%203.png)
 
 
 
 .Flowchart
 
 
-https://github.com/mastio1836/Labspy5/blob/master/Gambar/flowchart.PNG
+![flowchart](https://github.com/mastio1836/Labspy5/blob/master/Gambar/flowchart.PNG)
 
 
 
